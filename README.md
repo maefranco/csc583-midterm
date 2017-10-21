@@ -1,3 +1,7 @@
+# CSC 583 Midterm
+
+View milestone.png in images folder
+
 # Toro Net
 
 ## Getting started with VirtualBox
@@ -11,7 +15,7 @@ Change your directory into the dir on your VirtualBox Ubuntu virtual machine.
 cd toro-net
 ```
 
-Create .env file. Add a `.env` file with your PORT, MONGO_URI, 
+Create .env file. Add a `.env` file with your PORT, MONGO_URI,
 [GITHUB_ID, GITHUB_SECRET and APP_URL](https://github.com/jaredhanson/passport-github) like this:
 
 ***** For Frontend Team only *****
@@ -35,7 +39,7 @@ bash dev-env.sh
 Install node packages with npm.  
 ```
 npm install
-``` 
+```
 
 Build and watch for changes.  
 ```
